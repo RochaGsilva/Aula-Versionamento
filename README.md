@@ -1,2 +1,2 @@
 # Aula-Versionamento
-Aqui vamos armazenar codigos daaula de versionamento
+Aqui vamos armazenar codigos das aulas de versionamento
